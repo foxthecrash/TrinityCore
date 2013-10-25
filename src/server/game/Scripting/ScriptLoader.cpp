@@ -1402,6 +1402,7 @@ void AddBattlegroundScripts()
 void AddSC_boss_mrplaycurse();
 void AddSC_CPWS_Transmogrification();
 void AddSC_TeLe_gossip_codebox();
+void AddSC_zombie_event();
 #endif
 
 void AddCustomScripts()
@@ -1411,5 +1412,6 @@ void AddCustomScripts()
 	AddSC_boss_mrplaycurse();
     AddSC_CPWS_Transmogrification();
 	AddSC_TeLe_gossip_codebox();
+	AddSC_zombie_event();
 #endif
 }

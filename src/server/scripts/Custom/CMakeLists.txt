@@ -14,6 +14,7 @@ set(scripts_STAT_SRCS
 	Custom/Transmogrification.cpp
 	Custom/Transmogrifier.cpp
 	Custom/telemaster.cpp
+	Custom/Zombie_event.cpp
 	Custom/PlaycurseScripts/Mrplaycurse.cpp
 )
 
