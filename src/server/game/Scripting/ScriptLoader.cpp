@@ -1401,6 +1401,7 @@ void AddBattlegroundScripts()
 
 void AddSC_boss_mrplaycurse();
 void AddSC_CPWS_Transmogrification();
+void AddSC_TeLe_gossip_codebox();
 #endif
 
 void AddCustomScripts()
@@ -1409,5 +1410,6 @@ void AddCustomScripts()
     /* This is where custom scripts should be added. */
 	AddSC_boss_mrplaycurse();
     AddSC_CPWS_Transmogrification();
+	AddSC_TeLe_gossip_codebox();
 #endif
 }
